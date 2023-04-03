@@ -1,0 +1,62 @@
+[
+    {
+        "model": "store.Subcategory",
+        "pk": 1,
+        "fields": {
+            "name": "Bread",
+            "slug": "bread",
+            "category": "1",
+            "image": "/images/bread_image.jpg"
+        }
+    },
+    {
+        "model": "store.Subcategory",
+        "pk": 2,
+        "fields": {
+            "name": "Deserts",
+            "slug": "deserts",
+            "category": "1",
+            "image": "/images/desert_image.jpg"
+        }
+    },
+    {
+        "model": "store.Subcategory",
+        "pk": 3,
+        "fields": {
+            "name": "Fish",
+            "slug": "fish",
+            "category": "2",
+            "image": "/images/fish_image.jpg"
+        }
+    },
+    {
+        "model": "store.Subcategory",
+        "pk": 4,
+        "fields": {
+            "name": "Shrimp",
+            "slug": "shrimp",
+            "category": "2",
+            "image": "/images/shrimp_image.jpg"
+        }
+    },
+    {
+        "model": "store.Subcategory",
+        "pk": 5,
+        "fields": {
+            "name": "Water",
+            "slug": "water",
+            "category": "3",
+            "image": "/images/water_image.jpg"
+        }
+    },
+    {
+        "model": "store.Subcategory",
+        "pk": 6,
+        "fields": {
+            "name": "Wine",
+            "slug": "wine",
+            "category": "3",
+            "image": "/images/wine_image.jpg"
+        }
+    }
+]

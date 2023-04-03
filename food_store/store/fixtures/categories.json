@@ -1,0 +1,29 @@
+[
+    {
+        "model": "store.Category",
+        "pk": 1,
+        "fields": {
+            "name": "Bakery",
+            "slug": "bakery",
+            "image": "/images/bakery.jpg"
+        }
+    },
+    {
+        "model": "store.Category",
+        "pk": 2,
+        "fields": {
+            "name": "Seafood",
+            "slug": "seafood",
+            "image": "/images/seafood.jpg"
+        }
+    },
+    {
+        "model": "store.Category",
+        "pk": 3,
+        "fields": {
+            "name": "Drinks",
+            "slug": "drinks",
+            "image": "/images/drinks.jpg"
+        }
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "model": "store.Product",
+        "pk": 1,
+        "fields": {
+            "name": "Russian bread",
+            "price": 60.50,
+            "brand": "Bread Fabric",
+            "description": "The most russian bread you can find!",
+            "slug": "russian-bread",
+            "subcategory": 1,
+            "in_stock": "True"
+        }
+    },
+    {
+        "model": "store.Product",
+        "pk": 2,
+        "fields": {
+            "name": "French bread",
+            "price": 80.45,
+            "brand": "Bread Fabric",
+            "description": "Balls, junkers and the crunch of French bread.",
+            "slug": "french-bread",
+            "subcategory": 1,
+            "in_stock": "True"
+        }
+    },
+    {
+        "model": "store.Product",
+        "pk": 3,
+        "fields": {
+            "name": "German pretzel",
+            "price": 100.30,
+            "brand": "GQuality",
+            "description": "Made with german pedantry.",
+            "slug": "german-pretzel",
+            "subcategory": 2,
+            "in_stock": "True"
+        }
+    },
+    {
+        "model": "store.Product",
+        "pk": 4,
+        "fields": {
+            "name": "Apple pie",
+            "price": 150,
+            "brand": "Golden pie",
+            "description": "For those who likes apple!",
+            "slug": "apple-pie",
+            "subcategory": 2,
+            "in_stock": "True"
+        }
+    },
+    {
+        "model": "store.Product",
+        "pk": 5,
+        "fields": {
+            "name": "Pacific tuna",
+            "price": 3000.00,
+            "brand": "Marlin and Co.",
+            "description": "Taste of the ocean!",
+            "slug": "pacific-tuna",
+            "subcategory": 3,
+            "in_stock": "True"
+        }
+    },
+    {
+        "model": "store.Product",
+        "pk": 6,
+        "fields": {
+            "name": "Sturgeon",
+            "price": 10000.00,
+            "brand": "Baikal Ltd.",
+            "description": "From the depths of Baikal lake.",
+            "slug": "sturgeon",
+            "subcategory": 3,
+            "in_stock": "True"
+        }
+    },
+    {
+        "model": "store.Product",
+        "pk": 7,
+        "fields": {
+            "name": "Vietnam shrimp",
+            "price": 6000.00,
+            "brand": "Bubba Gump Shrimp Co.",
+            "description": "Run, Forrest, run!",
+            "slug": "vietnam-shrimp",
+            "subcategory": 4,
+            "in_stock": "True"
+        }
+    },
+    {
+        "model": "store.Product",
+        "pk": 8,
+        "fields": {
+            "name": "Shrimp from Shark Tale",
+            "price": 3500.47,
+            "brand": "Shark Mafia LLC",
+            "description": "She is a gold digger.",
+            "slug": "bread",
+            "subcategory": 4,
+            "in_stock": "True"
+        }
+    },
+    {
+        "model": "store.Product",
+        "pk": 9,
+        "fields": {
+            "name": "Bon Aqua",
+            "price": 50.63,
+            "brand": "The Coca-Cola Company",
+            "description": "We bet that you have seen our adverts more than once.",
+            "slug": "bon-aqua",
+            "subcategory": 5,
+            "in_stock": "True"
+        }
+    },
+    {
+        "model": "store.Product",
+        "pk": 10,
+        "fields": {
+            "name": "Holy spring",
+            "price": 15.00,
+            "brand": "Life Foundation",
+            "description": "Actually it is not so holy.",
+            "slug": "holy-spring",
+            "subcategory": 5,
+            "in_stock": "True"
+        }
+    },
+    {
+        "model": "store.Product",
+        "pk": 11,
+        "fields": {
+            "name": "Red Purcari wine",
+            "price": 600.88,
+            "brand": "Château Purcari",
+            "description": "Even Gagirin had a hard time getting out of the Crickov cellars.",
+            "slug": "red-purcari-wine",
+            "subcategory": 6,
+            "in_stock": "True"
+        }
+    },
+    {
+        "model": "store.Product",
+        "pk": 12,
+        "fields": {
+            "name": "The saint booze",
+            "price": 50000.00,
+            "brand": "Water to Wine Inc.",
+            "description": "From Jesus himself!",
+            "slug": "the-saint-booze",
+            "subcategory": 6,
+            "in_stock": "True"
+        }
+    }
+]
